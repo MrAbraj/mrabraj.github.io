@@ -1,0 +1,106 @@
+{
+  "navigation": [
+    { "label": "Selected work", "href": "#work" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "About", "href": "#about" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "resume": "/Abhinay_Raj%20_%20Senior_Frontend_Engineer_Resume.pdf",
+  "hero": {
+    "title": "Interfaces that",
+    "titleAccent": "feel inevitable.",
+    "description": "I'm Abhinay — a senior frontend engineer turning complex real-time systems into calm, fast, human experiences.",
+    "linkLabel": "Explore the work",
+    "year": "2026"
+  },
+  "experience": {
+    "title": "Growing with the product",
+    "summary": "I turn customer needs into useful features, then help scale and refine them for better performance and a smoother experience.",
+    "company": "GoTo",
+    "dates": "February 2022 — Present",
+    "role": "Software Development Engineer",
+    "product": "GoTo Meeting + Webinars",
+    "description": "Building frontend features for GoTo meeting and webinar products, with a focus on performance, scalability and real-time user experiences.",
+    "focusAreas": ["Frontend platform", "Real-time experiences", "Performance"]
+  },
+  "projects": [
+    {
+      "number": "01",
+      "title": "Streamify",
+      "description": "Interactive live streaming with 400ms latency, AI-powered screen-share translation, selectable text, and synchronized slides.",
+      "tags": ["React", "LL-HLS", "CEF"],
+      "href": "https://github.com/mrAbraj/live-stream-translation",
+      "accent": "from-amber-200/20 via-orange-300/10 to-transparent",
+      "eyebrow": "Real-time media"
+    },
+    {
+      "number": "02",
+      "title": "MultiCam Screen Share",
+      "description": "A real-time WebRTC experience for simultaneous webcam and screen sharing, with resilient signaling and data channels.",
+      "tags": ["WebRTC", "TypeScript", "Socket.IO"],
+      "href": "https://github.com/mrAbraj/React-WebRTC-MultiCamScreenShare",
+      "accent": "from-cyan-200/20 via-sky-300/10 to-transparent",
+      "eyebrow": "Exploration · concept"
+    },
+    {
+      "number": "03",
+      "title": "Collaborative Canvas",
+      "description": "A shared canvas with live presence, reliable updates, and fast cursor movement powered by a Rust WebTransport server.",
+      "tags": ["Rust", "WebTransport", "Tokio"],
+      "href": "https://github.com/mrAbraj/realtime-collaborative-canvas",
+      "accent": "from-fuchsia-200/20 via-purple-300/10 to-transparent",
+      "eyebrow": "Distributed systems"
+    },
+    {
+      "number": "04",
+      "title": "MediaMTX LL-HLS",
+      "description": "A low-latency streaming platform that brings live media closer to the viewer with a polished TypeScript control surface.",
+      "tags": ["TypeScript", "LL-HLS", "Streaming"],
+      "href": "https://github.com/mrAbraj/mediamtx-ll-hls",
+      "accent": "from-lime-200/20 via-emerald-300/10 to-transparent",
+      "eyebrow": "Low-latency infrastructure"
+    },
+    {
+      "number": "05",
+      "title": "Autonomous Drive",
+      "description": "A computer-vision exploration for autonomous driving, connecting perception, planning, and machine learning into one system.",
+      "tags": ["Python", "Computer vision", "ML"],
+      "href": "https://github.com/mrAbraj/Fully-Autonomous-Self-Driving-Car",
+      "accent": "from-sky-200/20 via-blue-300/10 to-transparent",
+      "eyebrow": "Applied intelligence"
+    },
+    {
+      "number": "06",
+      "title": "Multi-peer WebRTC",
+      "description": "A focused video-call experiment exploring peer-to-peer media, connection state, and the edges of browser-native collaboration.",
+      "tags": ["JavaScript", "WebRTC", "Media"],
+      "href": "https://github.com/mrAbraj/multipeer-webrtc",
+      "accent": "from-violet-200/20 via-fuchsia-300/10 to-transparent",
+      "eyebrow": "Browser collaboration"
+    },
+    {
+      "number": "07",
+      "title": "Instagram Analytics",
+      "description": "A data-crawling and analytics system for turning social signals into useful insights through APIs, dashboards, and structured data.",
+      "tags": ["Django", "MongoDB", "Analytics"],
+      "href": "https://github.com/mrAbraj/Instagram-Datacrawling-Django-RestFramework-And-mongodb-Engine-Nosql",
+      "accent": "from-rose-200/20 via-orange-300/10 to-transparent",
+      "eyebrow": "Data products"
+    }
+  ],
+  "about": {
+    "title": "The best frontend work is invisible:",
+    "titleAccent": "it makes the hard parts feel obvious.",
+    "description": "I helped bring LL-HLS live-streaming latency down to around 500 ms, approaching the low latency of WebRTC while retaining the reach of broadcast streaming.",
+    "skills": ["React", "TypeScript", "Electron", "WebRTC", "Web Audio", "WebTransport", "Performance", "AI workflows"],
+    "yearsExperience": "4+"
+  },
+  "contact": {
+    "title": "I'd love to hear what you're building.",
+    "titleAccent": "Let's connect.",
+    "email": "abhinayraj1226@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/abhinay-raj",
+    "github": "https://github.com/mrAbraj",
+    "location": "Built with care"
+  }
+}
